@@ -1,6 +1,6 @@
 	
 h1 {
-	background-image: KV0tPLN.jpeg;  
+	background-image: url(KV0tPLN.jpeg) no-repeat top left;;  
  	color: black;
 	border: 2px solid white;
   	margin: 50px;
